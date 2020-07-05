@@ -2,4 +2,4 @@ dosyalar/*
 
 !dosyalar/hi1.txt
 
-.gitignore
+/.gitignore
